@@ -10,7 +10,8 @@ Our work is focused on action spotting in soccer videos. We use the SoccerNet da
 
 This repository provides all training and testing functions necessary to reproduce the main results of the paper. It also provides a notebook to reproduce two of the figures of the paper: Figure 6 for the three classes (goal, card, substitution) and Figures 7 for different games.
 
-here is a short video summary of our method.
+Here is a short video summary of our method:
+
 [![Video](https://img.youtube.com/vi/FAeWxs0d4_o/0.jpg)](https://www.youtube.com/watch?v=FAeWxs0d4_o)
 
 
