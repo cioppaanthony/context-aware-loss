@@ -1,0 +1,33 @@
+Copyright (c) 2020 holders: 
+
+- University of Liège (ULiège), Belgium.
+- King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
+- Marc Van Droogenbroeck (M.VanDroogenbroeck@uliege.be), Professor at the University of Liège (ULiège).
+
+
+Code Contributing Authors: 
+
+- Anthony Cioppa (anthony.cioppa@uliege.be), University of Liège (ULiège), Montefiore Institute, TELIM.
+- Adrien Deliège (adrien.deliege@uliege.be), University of Liège (ULiège), Montefiore Institute, TELIM.
+- Silvio Giancola (silvio.giancola@kaust.edu.sa), King Abdullah University of Science and Technology (KAUST), Image and Video Understanding Laboratory (IVUL), part of the Visual Computing Center (VCC).
+
+
+Special thanks for their supervision to:
+
+- Bernard Ghanem, King Abdullah University of Science and Technology (KAUST).
+- Marc Van Droogenbroeck, University of Liège (ULiège).
+- Rikke Gade, Aalborg University.
+- Thomas B. Moeslund, Aalborg University.
+
+
+To cite this repository, use the following bibtex entry:
+
+```bibtex
+@InProceedings{Cioppa2020Context,
+  author = {Cioppa, Anthony and Deliège, Adrien and Giancola, Silvio and Ghanem, Bernard and Van Droogenbroeck, Marc and Gade, Rikke and Moeslund, Thomas B.},
+  title = {A Context-Aware Loss Function for Action Spotting in Soccer Videos},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2020}
+}
+```
