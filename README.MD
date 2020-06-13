@@ -18,6 +18,12 @@ The objective of this work is to spot three types of actions in soccer videos: g
 
 This repository provides every module needed to reproduce the results of the paper on the SoccerNet data: the network architecture, the losses, the training procedure and the evaluation. In particular, it provides a notebook to reproduce Figure 6 of the paper for the three classes (goal, card, substitution) and Figure 7 for different games.
 
+For more information about the content of the paper, check out our presentation video. To see more of our work, subscribe to our YouTube channel [__Acad AI Research__](https://www.youtube.com/channel/UCYkYA7OwnM07Cx78iZ6RHig?sub_confirmation=1)
+
+<a href="https://www.youtube.com/watch?v=51cyRDcmO00">
+<p align="center"><img src="img/Miniature-context-YouTube.png" width="720"></p>
+</a>
+
 
 ## Getting Started
 
