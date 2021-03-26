@@ -1,5 +1,14 @@
 # A Context-Aware Loss Function for Action Spotting in Soccer Videos
 
+:exclamation: :exclamation: :exclamation:
+This is an deprecated version of the method written in Tensorflow.
+Please, refer to the more recent and up-to-date Pytorch version which was recently released in a new [repository](https://github.com/SilvioGiancola/SoccerNetv2-DevKit) as part of the new SoccerNet-v2 dataset.
+
+Please migrate to this new repository as it contains :
+- Function to [extract the features](https://github.com/SilvioGiancola/SoccerNetv2-DevKit/tree/main/Features on new videos) for your own videos, which was an issue in this version. 
+- Functions to train or test [our method](https://github.com/SilvioGiancola/SoccerNetv2-DevKit/tree/main/Task1-ActionSpotting/CALF), which was very much optimized, as the training process of the network now only takes about 2-3 hours to train on the whole dataset rather than 12-24 hours in this version.
+:exclamation: :exclamation: :exclamation:
+
 This repository contains the code to reproduce the main results of the paper: "A Context-Aware Loss Function for Action Spotting in Soccer Videos". The paper can be found here: [Paper](https://arxiv.org/abs/1912.01326). This paper will be presented at the main conference on Computer Vision and Pattern Recognition (CVPR) in June 2020.
 
 ```bibtex
