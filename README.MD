@@ -1,6 +1,7 @@
 # A Context-Aware Loss Function for Action Spotting in Soccer Videos
 
 :exclamation: :exclamation: :exclamation:
+
 This is an deprecated version of the method written in Tensorflow.
 Please, refer to the more recent and up-to-date Pytorch version which was recently released in a new [repository](https://github.com/SilvioGiancola/SoccerNetv2-DevKit) as part of the new SoccerNet-v2 dataset.
 
